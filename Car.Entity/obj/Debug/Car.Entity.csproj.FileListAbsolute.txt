@@ -1,0 +1,4 @@
+D:\Users\workplace\Car\Car.Entity\bin\Debug\Car.Entity.dll
+D:\Users\workplace\Car\Car.Entity\bin\Debug\Car.Entity.pdb
+D:\Users\workplace\Car\Car.Entity\obj\Debug\Car.Entity.dll
+D:\Users\workplace\Car\Car.Entity\obj\Debug\Car.Entity.pdb

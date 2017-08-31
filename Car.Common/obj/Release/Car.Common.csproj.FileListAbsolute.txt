@@ -1,0 +1,8 @@
+D:\Users\workplace\Car\Car.Common\bin\Release\Car.Common.dll
+D:\Users\workplace\Car\Car.Common\bin\Release\Car.Common.pdb
+D:\Users\workplace\Car\Car.Common\bin\Release\Car.Entity.dll
+D:\Users\workplace\Car\Car.Common\bin\Release\Newtonsoft.Json.dll
+D:\Users\workplace\Car\Car.Common\bin\Release\Car.Entity.pdb
+D:\Users\workplace\Car\Car.Common\obj\Release\Car.Common.csprojResolveAssemblyReference.cache
+D:\Users\workplace\Car\Car.Common\obj\Release\Car.Common.dll
+D:\Users\workplace\Car\Car.Common\obj\Release\Car.Common.pdb

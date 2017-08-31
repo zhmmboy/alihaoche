@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<8uftp>
+<Settings>
+<Item name="Default Folder" type="string">D:\Users\workplace\Car\Car.Web\Manage\</Item>
+<Item name="Last Window Size" type="string">1 -4 -4 1444 860</Item>
+<Item name="Last Splitter Pos" type="string">382 214 602 747 567</Item>
+<Item name="Last Server Host" type="string">bxw2359470305.my3w.com</Item>
+<Item name="Last Server Port" type="numeric">21</Item>
+<Item name="Last Server User" type="string">bxw2359470305</Item>
+<Item name="Last Server dont save pass" type="numeric">0</Item>
+<Item name="Last server name" type="string"></Item>
+<Item name="Last Server Pass" type="string">124126112121087070067080089</Item>
+<Item name="Last Server Firewall Bypass" type="numeric">0</Item>
+<Item name="Last Server Path" type="string"></Item>
+<Item name="Last Server Type" type="numeric">256</Item>
+<Item name="Last Server transfer mode" type="numeric">0</Item>
+<Item name="Pasv" type="numeric">1</Item>
+</Settings>
+<RecentServers>
+<Server Host="bxw2359470305.my3w.com" Port="43" User="bxw2359470305" Pass="123113127121039058065" FirewallBypass="0" DontRememberPass="0" ServerType="256" Path="" PasvMode="0" TimeZoneOffset="0"/>
+<Server Host="bxw2359470305.my3w.com" Port="21" User="bxw2359470305" Pass="124126112121087070067080089" FirewallBypass="0" DontRememberPass="0" ServerType="256" Path="" PasvMode="0" TimeZoneOffset="0"/>
+</RecentServers>
+<Sites>
+<Site Name="juyoo" Host="114.80.153.105" Port="21" User="juyoo" RemoteDir="" LocalDir="" Pass="016063005005003001001014022120026" Logontype="1" FWBypass="0" DontSavePass="0" ServerType="0" PasvMode="1" TimeZoneOffset="0" TimeZoneOffsetMinutes="0" Comments="" DefaultSite="1"/>
+</Sites>
+<TransferQueue/>
+</8uftp>

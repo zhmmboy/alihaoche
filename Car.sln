@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car.Entity", "Car.Entity\Car.Entity.csproj", "{FC943179-FBC6-4721-83D1-115CE75CCA18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car.BLL", "Car.BLL\Car.BLL.csproj", "{8DAD8CB7-FE78-4D2F-995C-C70CBBE2720B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car.DAL", "Car.DAL\Car.DAL.csproj", "{771071B6-8B2C-46F7-B8C5-EDCD9EB0BA1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car.Common", "Car.Common\Car.Common.csproj", "{D0D42426-6845-4B3F-93F3-291B7818D6D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car.Web", "Car.Web\Car.Web.csproj", "{EB9B4A99-E347-4A2F-98B0-3EA2B9D11041}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car.Spider", "Car.Spider\Car.Spider.csproj", "{F0CE2331-6408-4CF5-8B1D-584BBCA6D739}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car.MvcWeb", "Car.MvcWeb\Car.MvcWeb.csproj", "{93198752-BD12-4C43-A848-8120B286CF8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC943179-FBC6-4721-83D1-115CE75CCA18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC943179-FBC6-4721-83D1-115CE75CCA18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC943179-FBC6-4721-83D1-115CE75CCA18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC943179-FBC6-4721-83D1-115CE75CCA18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DAD8CB7-FE78-4D2F-995C-C70CBBE2720B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DAD8CB7-FE78-4D2F-995C-C70CBBE2720B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DAD8CB7-FE78-4D2F-995C-C70CBBE2720B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DAD8CB7-FE78-4D2F-995C-C70CBBE2720B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{771071B6-8B2C-46F7-B8C5-EDCD9EB0BA1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{771071B6-8B2C-46F7-B8C5-EDCD9EB0BA1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{771071B6-8B2C-46F7-B8C5-EDCD9EB0BA1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{771071B6-8B2C-46F7-B8C5-EDCD9EB0BA1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0D42426-6845-4B3F-93F3-291B7818D6D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0D42426-6845-4B3F-93F3-291B7818D6D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0D42426-6845-4B3F-93F3-291B7818D6D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0D42426-6845-4B3F-93F3-291B7818D6D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB9B4A99-E347-4A2F-98B0-3EA2B9D11041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB9B4A99-E347-4A2F-98B0-3EA2B9D11041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB9B4A99-E347-4A2F-98B0-3EA2B9D11041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB9B4A99-E347-4A2F-98B0-3EA2B9D11041}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0CE2331-6408-4CF5-8B1D-584BBCA6D739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0CE2331-6408-4CF5-8B1D-584BBCA6D739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0CE2331-6408-4CF5-8B1D-584BBCA6D739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0CE2331-6408-4CF5-8B1D-584BBCA6D739}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93198752-BD12-4C43-A848-8120B286CF8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93198752-BD12-4C43-A848-8120B286CF8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93198752-BD12-4C43-A848-8120B286CF8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93198752-BD12-4C43-A848-8120B286CF8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 8
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://zhmmboy.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Car.BLL\\Car.BLL.csproj
+		SccProjectName1 = Car.BLL
+		SccLocalPath1 = Car.BLL
+		SccProjectUniqueName2 = Car.Common\\Car.Common.csproj
+		SccProjectName2 = Car.Common
+		SccLocalPath2 = Car.Common
+		SccProjectUniqueName3 = Car.DAL\\Car.DAL.csproj
+		SccProjectName3 = Car.DAL
+		SccLocalPath3 = Car.DAL
+		SccProjectUniqueName4 = Car.Entity\\Car.Entity.csproj
+		SccProjectName4 = Car.Entity
+		SccLocalPath4 = Car.Entity
+		SccProjectUniqueName5 = Car.MvcWeb\\Car.MvcWeb.csproj
+		SccProjectName5 = Car.MvcWeb
+		SccLocalPath5 = Car.MvcWeb
+		SccProjectUniqueName6 = Car.Spider\\Car.Spider.csproj
+		SccProjectName6 = Car.Spider
+		SccLocalPath6 = Car.Spider
+		SccProjectUniqueName7 = Car.Web\\Car.Web.csproj
+		SccProjectName7 = Car.Web
+		SccLocalPath7 = Car.Web
+	EndGlobalSection
+EndGlobal

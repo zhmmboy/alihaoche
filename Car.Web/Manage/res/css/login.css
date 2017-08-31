@@ -1,0 +1,111 @@
+﻿body {
+    background: url('/Manage/res/images/loginBg.jpg') no-repeat center;
+    text-align: center;
+}
+
+
+h1 {
+    position: relative;
+    margin: auto;
+    margin-top: 5%;
+    font-size: 50px;
+    color: white;
+}
+
+
+
+/*登陆框*/
+#loginBox {
+    position: relative;
+    margin: auto;
+    margin-top: 2%;
+    width: 448px;
+    height: 548px;
+    background: url('/Manage/res/images/loginBox.png') no-repeat center;
+    background-size: 100% 100%;
+    overflow: hidden;
+}
+
+.loginLogo {
+    position: relative;
+    display: block;
+    margin: auto;
+    margin-top: 40px;
+    overflow: hidden;
+}
+
+
+
+/*输入框*/
+.inputUserName {
+    position: relative;
+    margin: auto;
+    margin-top: 40px;
+    width: 355px;
+    height: 65px;
+    background: white;
+    border-radius: 10px;
+}
+
+#txtName {
+    position: relative;
+    width: 95%;
+    height: 100%;
+    font-size: 35px;
+    border: none;
+    background: none;
+    outline: 0;
+}
+
+.alertUserName {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font-size: 35px;
+    color: #cfcfcf;
+}
+
+
+.inputPassWord {
+    position: relative;
+    margin: auto;
+    margin-top: 30px;
+    width: 355px;
+    height: 65px;
+    background: white;
+    border-radius: 10px;
+}
+
+#txtPassWord {
+    position: relative;
+    width: 95%;
+    height: 100%;
+    font-size: 35px;
+    border: none;
+    background: none;
+    outline: 0;
+}
+
+.alertPassWord {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font-size: 35px;
+    color: #cfcfcf;
+}
+
+/*登陆按钮*/
+.loginButton {
+    position: relative;
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+    width: 154px;
+    height: 67px;
+    background: url('/Manage/res/images/loginButton.png') no-repeat center;
+    background-size: 100% 100%;
+    overflow: hidden;
+    border: none;
+    outline: 0;
+    cursor: pointer;
+}

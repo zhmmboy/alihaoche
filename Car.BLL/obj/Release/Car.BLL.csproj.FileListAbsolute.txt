@@ -1,0 +1,12 @@
+D:\Users\workplace\Car\Car.BLL\bin\Release\Car.BLL.dll
+D:\Users\workplace\Car\Car.BLL\bin\Release\Car.BLL.pdb
+D:\Users\workplace\Car\Car.BLL\bin\Release\Car.Common.dll
+D:\Users\workplace\Car\Car.BLL\bin\Release\Car.DAL.dll
+D:\Users\workplace\Car\Car.BLL\bin\Release\Car.Entity.dll
+D:\Users\workplace\Car\Car.BLL\bin\Release\Newtonsoft.Json.dll
+D:\Users\workplace\Car\Car.BLL\bin\Release\Car.Common.pdb
+D:\Users\workplace\Car\Car.BLL\bin\Release\Car.DAL.pdb
+D:\Users\workplace\Car\Car.BLL\bin\Release\Car.Entity.pdb
+D:\Users\workplace\Car\Car.BLL\obj\Release\Car.BLL.csprojResolveAssemblyReference.cache
+D:\Users\workplace\Car\Car.BLL\obj\Release\Car.BLL.dll
+D:\Users\workplace\Car\Car.BLL\obj\Release\Car.BLL.pdb

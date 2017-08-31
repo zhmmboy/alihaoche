@@ -1,0 +1,149 @@
+﻿html, body, ul, li, ol, dl, dd, dt, p, h1, h2, h3, h4, h5, h6, form, fieldset, legend, img { margin: 0; padding: 0; font-size: 14px; }
+
+body { position: absolute; height: 100%; width:100%; }
+ul li { list-style: none; }
+
+#Backstage { min-width: 1024px; }
+
+    #Backstage .topBack { overflow: hidden; height: 81px; background: #00a5a5; }
+
+        #Backstage .topBack > div { float: left; }
+
+    #Backstage .topBackCenter { background: url(../images/top_bg.jpg) no-repeat; margin: 0 20px 0 46px; min-width: 444px; height: 100%; }
+
+    #Backstage .topBack .topBackExit { float: right; background: url(../images/exit.jpg) no-repeat; width: 137px; height: 100%; color: #ffffff; font-weight: bold; cursor: pointer; text-align: center; line-height: 120px; }
+
+    #Backstage .menuLeft { width: 200px; background: #32323a; }
+
+        #Backstage .menuLeft ul li { border-bottom: 1px solid #494952; height: 50px; line-height: 50px; font-weight: bold; color: #fff; }
+
+    #Backstage .admin { height: 110px; }
+
+        #Backstage .admin .adminBox { width: 195px; height: 82px; padding: 30px 0 0 15px; }
+
+            #Backstage .admin .adminBox > div { float: left; padding-left: 10px; }
+
+            #Backstage .admin .adminBox span { display: block; color: #ffffff; line-height: 30px; font-size: 14px; }
+
+            #Backstage .admin .adminBox .adminName { color: #00a5a5; font-weight: bold; }
+
+    #Backstage .menu > div { float: left; }
+
+    #Backstage .one_menu ul li { background: url(../images/icon.png) no-repeat; padding-left: 80px; cursor: pointer; }
+
+    #Backstage .menuRight { background: #f1f1f1; min-width: 824px; }
+
+    #Backstage .two_menu { height: 40px; background: #f1f1f1; border-bottom: 3px solid #32323a; min-width: 810px; }
+
+        #Backstage .two_menu ul li { height: 40px; line-height: 40px; background: #f1f1f1; border-bottom: 3px solid #32323a; float: left; padding: 0 20px; cursor: pointer; font-weight: bold; }
+
+            #Backstage .two_menu ul li:hover { background: #ceffff; border-bottom: 3px solid #00a5a5; }
+
+    #Backstage .Catalog { height: 35px; line-height: 35px; background: #f6f6f6; border-bottom: 1px solid #d1d1d1; }
+
+    #Backstage .main_ifr { border-bottom: 1px solid #e7e7e7; border-right: 1px solid #e7e7e7; background: #fff; min-width: 810px; }
+
+/*搜索框*/
+#search { margin: 5px 0 0 30px; background: #e5e5e5; }
+
+    #search .searchTable { font-weight: bold; color: #4d4d4d; padding: 10px 50px 3px 5px; }
+
+    #search .QuesAdd { padding: 0 0 7px 5px; }
+
+        #search .QuesAdd a { display: inline-block; }
+
+            #search .QuesAdd a:hover { background: #2ed0ba; }
+
+.txt { text-align: right; padding: 5px 0 0 5px; }
+
+.txt2 { text-align: right; padding: 5px 0 0 5px;width: 60px; }
+
+.btn_big { width: 80px; height: 23px; line-height: 23px; font-size: 12px; color: white; text-align: center; border: 0; cursor: pointer; text-decoration: none; background: #1fbba6; border-radius: 2px; }
+
+.ddlCss { border: 0; line-height: 24px; width: 100px; height: 24px; }
+
+.inputText { border: 0; line-height: 20px; width: 100px; height: 20px; }
+
+/*数据内容*/
+#main_table { padding: 7px 0 0 30px; }
+
+    #main_table table { width: 100%; border-left: 1px solid #e5e5e5; border-top: 1px solid #e5e5e5; }
+
+        #main_table table tr th { height: 36px; line-height: 36px; padding: 0 10px; background: #00a5a5; border-right: 1px solid #fff; }
+
+        #main_table table tr td { height: 32px; line-height: 32px; text-align: center; background: #f8f8f8; border-bottom: 1px solid #e5e5e5; border-right: 1px solid #e5e5e5; }
+
+        #main_table table tr:nth-child(odd) td { background: #efefef; }
+
+/*分页*/
+#pager { height: 30px; margin: auto; padding-top: 10px; }
+
+    #pager a { background-color: #fff !important; padding: 4px 8px 4px 8px; text-decoration: none; color: #606060 !important; border: 1px solid #d0d0d0; }
+
+        #pager a:hover { color: #fff !important; background-color: #00a2e5 !important; border: 1px solid #d0d0d0; }
+
+    #pager span { background-color: #00a2e5; padding: 5px 9px 5px 9px; color: #fff!important; }
+
+
+/*新增页面*/
+#myTable { margin: 10px 0 0 20px; width: 100%; background: #e5e5e5; }
+
+    #myTable table { padding: 8px; font-weight: bold; color: #4d4d4d; }
+
+        #myTable table tr td, #myContent table tr td { padding: 6px; }
+
+        .myTable2 { margin: 10px 20px 0 20px; }
+         .myTable2 table { padding: 8px; font-weight: bold; color: #4d4d4d;width: 100%; background: #e5e5e5;}
+
+        .myTable2 table tr td, #myContent table tr td { padding: 6px; }
+
+.ddlInputCss { border: 0; width: 203px; height: 30px; line-height: 30px; }
+
+.addInput { border: 0; width: 203px; height: 26px; line-height: 26px; }
+
+.addInput2 { border: 0; width: 550px; height: 150px; }
+
+/*内容加上传*/
+#myContent { margin: 10px 0 0 20px; width: 100%; background: #e5e5e5; /*padding-left:28px;*/ }
+
+    #myContent > table { padding: 8px; font-weight: bold; color: #4d4d4d; }
+
+.but { padding: 50px 30%; }
+
+.but2 { padding: 20px 10%; }
+
+.but3 {padding-top: 20px; text-align: center; }
+
+.Sub { margin-left: 30px; }
+
+.Sub2 { margin-left: 5px; }
+
+/*图片上传按钮*/
+.upfile { position: absolute; top: -10000px; }
+
+.upFileBtn { width: 108px; height: 28px; line-height: 28px; cursor: pointer; background: #1fbba6; border: 0; color: #fff; border-radius: 5px; }
+
+.upFileBtn2 { width: 40px; height: 20px; line-height: 19px; cursor: pointer; background: #1fbba6; border: 0; color: #fff; border-radius: 5px; }
+
+/*内容上传*/
+#MyFile > div { padding-bottom: 10px; }
+
+#MyFile .literacyAddText { width: 500px; height: 40px; border: 0; border-radius: 5px; min-width: 500px; max-width: 500px; }
+
+.delete { float: right; width: 77px; height: 28px; background: #32323a; color: #fff; text-align: center; line-height: 28px; border-radius: 5px; text-decoration: none; }
+
+    .delete:hover { background: #55555d; }
+
+
+
+#MyFile tr th { background: #00a5a5; height: 30px; line-height: 30px; text-align: center; border-right: 1px solid #ffffff; color: #fff; }
+#MyFile tr td { background: #ffffff; border-right: 1px solid #e5e5e5; }
+#MyFile .time, #MyFile .sort, #MyFile .ReadAddText, #MyFile .keynote { height: 30px; line-height: 30px; border: 1px solid #a6a6a6; border-radius: 3px; }
+#MyFile .ReadAddText { width: 200px; }
+#MyFile .keynote { width: 40px; }
+#MyFile .time, #MyFile .sort { width: 30px; }
+
+
+
+
+/*alertBox*/

@@ -1032,6 +1032,7 @@
     <Folder Include="Manage\Music\" />
     <Folder Include="Manage\ServiceAgreement\" />
     <Folder Include="Manage\User\" />
+    <Folder Include="Test\" />
     <Folder Include="UpFile\Album\" />
     <Folder Include="UpFile\Head\" />
     <Folder Include="UpFile\News\" />

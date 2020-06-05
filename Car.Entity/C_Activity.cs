@@ -14,6 +14,7 @@ namespace Car.Entity
     
     public partial class C_Activity
     {
+		//add commit
         public System.Guid aId { get; set; }
         public string aTitle { get; set; }
         public string aPlace { get; set; }
